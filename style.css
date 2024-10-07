@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    color: aquamarine;
+}
+.blue{
+    color: blue;
+    font-weight: bold;
+}
+caption{
+    text-align: center;
+    color: goldenrod;
+    size: 25px;
+}
+table{
+    width: 100%;
+}
+table, th, tr, td{
+    border: 1px solid #000000;
+    border-collapse: collapse;
+}
+th{
+    background-color: lawngreen;
+    width: 100px;
+    font-weight: bold;
+}
+.LMSGI{
+    background-color: blueviolet;
+}
+.PED{
+    background-color: #00ff8877;
+}
+.SI{
+    background-color: magenta;
+}
+.BD{
+    background-color: sandybrown;
+}
+.TUT{
+    background-color: olivedrab;
+}
+.AN{
+    background-color: saddlebrown;
+}
+.IPOI{
+    background-color: aqua;
+}
+.DIW{
+    background-color: #00ff4466;
+}
